@@ -35,6 +35,5 @@ Heroku Deployment Guide
 
 Vercel Deployment Guide
 
-📌 Author
 
-Developed by [Your Name]. Feel free to contribute! 😊
+
