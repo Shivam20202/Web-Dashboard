@@ -25,15 +25,8 @@ Frontend shows API errors? Check VITE_API_URL.
 
 Database connection fails? Verify PostgreSQL credentials.
 
-🔗 Useful Links
 
-Strapi Docs
 
-React Docs
-
-Heroku Deployment Guide
-
-Vercel Deployment Guide
 
 
 
